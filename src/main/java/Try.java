@@ -37,6 +37,7 @@ public class Try
              }
               System.out.println("For Cities: "+cities);
                System.out.println("For Numbers: "+number);
+               juugi
              
              
     }
